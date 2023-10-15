@@ -1,2 +1,2 @@
-# sol-electronic-toll-collection
-Solana Electronic Toll Collection
+# sol-marine-log
+Solana Marine Log
