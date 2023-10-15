@@ -1,2 +1,2 @@
-# sol-marine-log
-Solana Marine Log
+# sol-maritime-log
+Solana Maritime Log
